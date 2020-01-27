@@ -4,3 +4,6 @@ a {
 abbr:hover {
     color: red;
 }
+img {
+    border: 2px dotted red
+}
